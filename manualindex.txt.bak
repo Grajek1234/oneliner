@@ -2,4 +2,5 @@
 you should use command (git add.) in this folder
 after u should use (git commit -m "comment")
 then u (git remote add origin https://github.com/Grajek1234/oneliner.git)
+and (git branch -M main)
 now (git push -u origin master)
